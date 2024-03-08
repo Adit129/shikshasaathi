@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shikshasaathi/static/css/main.d59e7b19.css",
-    "main.js": "/shikshasaathi/static/js/main.d456b13c.js",
+    "main.js": "/shikshasaathi/static/js/main.f3215e02.js",
     "static/media/remixicon.svg?t=1708865856766": "/shikshasaathi/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
     "static/media/remixicon.eot?t=1708865856766": "/shikshasaathi/static/media/remixicon.8542c1bb279bcd77063a.eot",
     "static/media/remixicon.ttf?t=1708865856766": "/shikshasaathi/static/media/remixicon.4c942de19d980993f612.ttf",
@@ -17,10 +17,10 @@
     "static/media/slick.woff": "/shikshasaathi/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/shikshasaathi/index.html",
     "main.d59e7b19.css.map": "/shikshasaathi/static/css/main.d59e7b19.css.map",
-    "main.d456b13c.js.map": "/shikshasaathi/static/js/main.d456b13c.js.map"
+    "main.f3215e02.js.map": "/shikshasaathi/static/js/main.f3215e02.js.map"
   },
   "entrypoints": [
     "static/css/main.d59e7b19.css",
-    "static/js/main.d456b13c.js"
+    "static/js/main.f3215e02.js"
   ]
 }
