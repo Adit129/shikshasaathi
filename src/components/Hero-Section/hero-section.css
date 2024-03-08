@@ -1,0 +1,39 @@
+.hero__content h2 {
+  font-weight: 600;
+  line-height: 55px;
+}
+
+.hero__content {
+  padding-top: 80px;
+}
+.search input {
+  border: none;
+  outline: none;
+  padding: 7px 10%;
+}
+
+.search {
+  width: 60%;
+  border: 1px solid #17bf9d44;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+/* hero-section.css */
+
+.hero__title span:last-child {
+  display: inline-block;
+  opacity: 0;
+  animation: typing 1s forwards;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
