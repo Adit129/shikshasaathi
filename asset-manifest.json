@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shikshasaathi/static/css/main.d59e7b19.css",
+    "main.js": "/shikshasaathi/static/js/main.7e7182d5.js",
+    "static/media/remixicon.svg?t=1708865856766": "/shikshasaathi/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/remixicon.eot?t=1708865856766": "/shikshasaathi/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/shikshasaathi/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/remixicon.woff?t=1708865856766": "/shikshasaathi/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/shikshasaathi/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/mountains-7422920_1280.png": "/shikshasaathi/static/media/mountains-7422920_1280.569d7afd00b78a20845d.png",
+    "static/media/about-us.png": "/shikshasaathi/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/seo.png": "/shikshasaathi/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/ui-ux.png": "/shikshasaathi/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/slick.svg": "/shikshasaathi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/shikshasaathi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/shikshasaathi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/shikshasaathi/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/shikshasaathi/index.html",
+    "main.d59e7b19.css.map": "/shikshasaathi/static/css/main.d59e7b19.css.map",
+    "main.7e7182d5.js.map": "/shikshasaathi/static/js/main.7e7182d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d59e7b19.css",
+    "static/js/main.7e7182d5.js"
+  ]
+}
