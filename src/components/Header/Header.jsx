@@ -1,4 +1,5 @@
 import React, { useRef } from "react";
+import { Link } from "react-router-dom";
 import { Container } from "reactstrap";
 import "./header.css";
 
@@ -11,7 +12,6 @@ const navLinks = [
     display: "About",
     url: "/about",
   },
-
   {
     display: "Courses",
     url: "/course",
@@ -45,7 +45,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h2 className=" d-flex align-items-center gap-1">
-              <i class="ri-pantone-line"></i> Shikshasaathi
+              <i className="ri-pantone-line"></i> Shikshasaathi
             </h2>
           </div>
 
@@ -54,7 +54,7 @@ const Header = () => {
               <ul className="nav__list">
                 {navLinks.map((item, index) => (
                   <li key={index} className="nav__item">
-                    <a href={item.url}>{item.display}</a>
+                    <Link to={item.url}>{item.display}</Link>
                   </li>
                 ))}
               </ul>
@@ -63,7 +63,7 @@ const Header = () => {
 
           <div className="mobile__menu">
             <span>
-              <i class="ri-menu-line" onClick={menuToggle}></i>
+              <i className="ri-menu-line" onClick={menuToggle}></i>
             </span>
           </div>
         </div>
